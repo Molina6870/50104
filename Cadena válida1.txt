@@ -1,0 +1,3 @@
+do { puts("a"); puts("b"); puts("c"); } while (0);
+
+
